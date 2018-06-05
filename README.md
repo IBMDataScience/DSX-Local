@@ -1,1 +1,1 @@
-# DSX-Local
+# Data Science Experience Local
